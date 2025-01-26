@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 CS student at AMU<br>💻 Proficient in Java, C++, and Python<br>🌟 Exploring software development and building innovative projects.
+🎓 CS student at AMU<br>💻 Proficient in Java and C++ <br>🌟 Exploring software development and building innovative projects.
 
 
 # 💻 Tech Stack:
